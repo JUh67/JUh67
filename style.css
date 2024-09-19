@@ -1,0 +1,31 @@
+body{
+
+background:#c093eb;
+color:hwb(0 0% 100%);
+font-family: "Sofadi One", system-ui;;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 87px;
+}
+
+button{
+
+background-color: aquamarine;
+color: green;
+font-family: "bai jamjuree", sans-serif;
+}
+
+.passo {
+   display: none;
+}
+
+.passo.ativo {
+     display:block;
+}
+
+
+
+
+
+
